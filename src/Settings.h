@@ -1,5 +1,5 @@
-char ssid[] = "ADSLVFE4";                       // WiFi Router ssid
-char pass[] = "AXND5XX1FGUHR76";                       // WiFi Router password
+char ssid[] = "";                       // WiFi Router ssid
+char pass[] = "";                       // WiFi Router password
 
 /****** MQTT Settings ********************************************************/
 
