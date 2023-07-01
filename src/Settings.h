@@ -1,7 +1,7 @@
 char ssid[] = "";                       // WiFi Router ssid
 char pass[] = "";                       // WiFi Router password
 
-/***/ 
+
 /****** MQTT Settings ********************************************************/
 
 const char* mqtt_server = "10.10.0.100";       // MQTT Server (broker) address
